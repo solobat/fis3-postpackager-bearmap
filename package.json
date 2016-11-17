@@ -1,0 +1,23 @@
+{
+  "name": "fis3-postpackager-bearmap",
+  "version": "0.0.1",
+  "description": "fis3-postpackager for fis3-bear map file\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dproduce fis3-bear map file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnieBear/fis3-postpackager-bearmap.git"
+  },
+  "keywords": [
+    "fis3",
+    "fis3-postpackager-bearmap"
+  ],
+  "author": "fengyang321@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnieBear/fis3-postpackager-bearmap/issues"
+  },
+  "homepage": "https://github.com/winnieBear/fis3-postpackager-bearmap#readme"
+}
