@@ -1,6 +1,6 @@
 {
   "name": "fis3-postpackager-bearmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fis3-postpackager for fis3-bear map file\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dproduce fis3-bear map file.",
   "main": "index.js",
   "scripts": {
